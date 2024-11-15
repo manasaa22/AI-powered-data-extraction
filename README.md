@@ -146,3 +146,24 @@ oauth2client
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+🎥 Video Demonstration:
+################################################################################
+https://drive.google.com/file/d/1yS9EyN5uJ5IuSjYyK5x9ke0MDf_nGjXr/view
+################################################################################
+In this demonstration, I walk through our AI-powered data extraction dashboard and its core functionalities.
+Video Contents:
+🎬 Introduction
+
+Project overview: AI-powered data extraction dashboard
+Built with Python and Streamlit
+Combines web scraping, LLM processing, and user-friendly interface
+
+🎯 Project Purpose
+
+Solving manual research inefficiency
+Automated solution for:
+
+Bulk entity research
+Intelligent web searching
+AI-powered information extraction
+Structured data output

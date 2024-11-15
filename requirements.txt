@@ -1,0 +1,9 @@
+streamlit
+pandas
+serpapi
+openai
+langchain-groq
+tenacity
+gspread
+oauth2client
+logging
